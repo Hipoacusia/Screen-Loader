@@ -1,10 +1,8 @@
-:EMOJICODE:
-
-# Screen Loader :desktop:
+# Screen Loader :rocket:
 
 ## Glowin Animation
 
-![This is a alt text.](/home/hipoacusia/Imágenes/GIT-IMG/Uno.png "Glowin ")
+![This is a alt text.](file:///home/hipoacusia/Im%C3%A1genes/GIT_IMG/Uno.png)
 
 ## Loadind Ring Text
 
