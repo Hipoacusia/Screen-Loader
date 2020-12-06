@@ -2,7 +2,7 @@
 
 ## Glowin Animation
 
-![This is a alt text.](uno.png)
+![This is a alt text.](https://github.com/Hipoacusia/Screen-Loader/blob/master/Uno.png?raw=true)
 
 ## Loadind Ring Text
 
